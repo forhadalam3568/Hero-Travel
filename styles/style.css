@@ -1,0 +1,94 @@
+ * {
+     font-family: "Mulish";
+
+ }
+
+
+ nav {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+ }
+
+ .nav-title-items {
+     display: flex;
+     align-items: center;
+ }
+
+ .nav-icon {
+     display: none;
+ }
+
+ nav ul {
+     display: flex;
+ }
+
+ nav li {
+     margin-right: 44px;
+     list-style: none;
+ }
+
+ nav li a {
+     text-decoration: none;
+     color: #424247;
+     text-align: center;
+     font-size: 18px;
+     font-weight: 400;
+
+ }
+
+ #nav-title {
+     color: #131318;
+     font-size: 2rem;
+     font-weight: 800;
+
+ }
+
+ .banner {
+     background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url(Images/Group\ 13.png);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     width: 1170px;
+     height: 500px;
+     border-radius: 16px;
+     margin: 50px auto;
+     text-align: center;
+     padding-top: 155px;
+
+ }
+
+ .selector-main {
+     padding: 16px;
+     border-radius: 8px;
+     background: rgba(255, 255, 255, 0.30);
+     display: inline-flex;
+     padding: 16px;
+     align-items: flex-start;
+     gap: 24px;
+ }
+
+ .selector {
+     width: 174px;
+     height: 52px;
+     border-radius: 8px;
+     background: #FFF;
+     color: rgba(19, 19, 24, 0.50);
+     text-align: center;
+     font-size: 1rem;
+     font-weight: 400;
+
+ }
+
+ #btn1 {
+     width: 174px;
+     height: 52px;
+     border-radius: 8px;
+     background: #FF5400;
+     color: #FFF;
+     text-align: center;
+     font-size: 1rem;
+     font-weight: 700;
+     border: none;
+
+ }
