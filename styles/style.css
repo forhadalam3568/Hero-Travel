@@ -58,6 +58,19 @@
 
  }
 
+ #banner-title {
+     color: #FFF;
+     font-size: 4rem;
+     font-weight: 800;
+ }
+
+ #banner-breff {
+     color: #FFF;
+     font-size: 1rem;
+     font-weight: 400;
+ }
+
+
  .selector-main {
      padding: 16px;
      border-radius: 8px;
@@ -92,3 +105,396 @@
      border: none;
 
  }
+
+ .hill-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+
+
+}
+
+.popular-tours {
+    margin-right: 20px;
+}
+
+
+#tour-title {
+    color: #131318;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+#tour-breff {
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+#tour-points {
+    color: rgba(19, 19, 24, 0.70);
+
+    font-size: 1rem;
+
+    font-weight: 400;
+    line-height: 26px;
+}
+
+#mount-everest-img {
+    width: 540px;
+    height: 550px;
+    border-radius: 16px;
+
+}
+
+#btn2 {
+    background: #FF5400;
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 800;
+
+}
+
+ 
+#location-title {
+    color: #131318;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+#location-breff {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.location-img {
+    width: 573px;
+    height: 300px;
+
+}
+
+.relative {
+    position: relative;
+}
+
+
+#txt-malay {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 37%;
+    left: 40%;
+
+}
+
+#txt-indo {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 37%;
+    left: 37%;
+}
+
+#txt-srilanka {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 40%;
+    left: 34%;
+}
+
+#txt-america {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 40%;
+    left: 30%;
+}
+
+#txt-Kashmir {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 40%;
+    left: 31%;
+}
+
+#txt-bangladesh {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 38%;
+    left: 34%;
+}
+
+#txt-Bandarban {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 38%;
+    left: 39%;
+} 
+
+
+ .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 25px;
+}
+
+
+#about-us-title {
+    color: #131318;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 800;
+
+}
+
+#about-us-breff {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.about-us-cart2 {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.hotel1 {
+    width: 573px;
+    height: 200px;
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    padding: 34px;
+}
+
+.hotel2 {
+    width: 573px;
+    height: 200px;
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+    padding: 34px;
+}
+
+.hotel3 {
+    width: 573px;
+    height: 200px;
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    padding: 34px;
+    margin: 24px auto;
+
+}
+
+.hotel-title {
+    color: #131318;
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.hotel-breff {
+    color: #5A5A5D;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.icon {
+    width: 64px;
+    height: 64px;
+
+}
+
+
+#services-offering {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-top: 70px;
+}
+
+.services-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 70px;
+}
+
+
+
+.place-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+
+
+}
+
+.place-for-tours {
+    margin-right: 20px;
+}
+
+
+#place-title {
+    color: #131318;
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 60px;
+    width: 448px;
+}
+
+#place-breff {
+    color: #5A5A5D;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 26px;
+    max-width: 518px;
+}
+
+#sundarban-points {
+    color: #131318;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 26px;
+    max-width: 518px;
+}
+
+
+
+#btn3 {
+    background: #FF5400;
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 800;
+
+}
+
+#video {
+    width: 530px;
+    height: 300px;
+    border-radius: 16px;
+}
+
+
+.newslatter-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 100px;
+    position: relative;
+}
+
+.news {
+    border: 1px solid #FF5400;
+    border-radius: 16px;
+    width: 480px;
+    height: 440px;
+    padding: 18px;
+    margin-bottom: 100px;
+    margin-top: 110px;
+}
+
+hr {
+    width: 393px;
+    height: 1px;
+    background: rgba(19, 19, 24, 0.10);
+    margin: 24px 0;
+}
+
+input {
+    width: 393px;
+    height: 52px;
+    border-radius: 8px;
+    border: none;
+    background: rgba(19, 19, 24, 0.05);
+    color: rgba(19, 19, 24, 0.30);
+    font-size: 1rem;
+}
+
+.btn-3 {
+    width: 393px;
+    height: 52px;
+    border: none;
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FFF;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin-top: 25px;
+}
+
+.img-3 {
+    width: 670px;
+    height: 470px;
+    border-radius: 16px;
+}
+
+.img-4 {
+    background-image: url(icons/Rectangle\ 14.png);
+    position: absolute;
+    right: 344px;
+    bottom: 187px;
+    width: 300px;
+    height: 100px;
+    transform: rotate(-30deg);
+    border-radius: 16px;
+    background: #FF5400;
+    padding-top: 10px;
+}
+
+.img-p {
+    color: #FFF;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.img-h3 {
+    color: #FFF;
+    font-size: 1.3rem;
+    font-weight: 800;
+    text-align: center;
+}
